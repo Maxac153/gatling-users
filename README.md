@@ -1,2 +1,2 @@
 # gatling-users
-Load test Users (Gatling)
+Load testing Users (Gatling)
