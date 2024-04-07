@@ -17,7 +17,6 @@ public class AuthorizationTest extends Simulation {
                         constantUsersPerSec(1).during(10),
                         constantUsersPerSec(4).during(20),
                         constantUsersPerSec(1).during(10)
-
                 )
         ).protocols(httpProtocol);
     }
